@@ -3,7 +3,7 @@ import random
 print("..............................................")
 print("..............................................")
 print("..............................................")
-print("BIenvenido al Juego Adivina un Numero")
+print("Bienvenido al Juego Adivina un Numero")
 Nombre = input("Ingrese su Nombre : ")
 def Adivina ():
     num_r = random.randint(1,100) 
