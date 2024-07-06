@@ -1,2 +1,2 @@
 # programas-bebes
-## Estos son los primeros programas que hice con python
+## Estos son los mis primeros programas que hice con python
